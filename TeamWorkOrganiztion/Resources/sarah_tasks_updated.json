@@ -1,0 +1,603 @@
+[
+    {
+        "WFInstance": {
+            "ID": 5203,
+            "ApplicationReference": "Edit Security Request - 2255"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 8254,
+                "WFInstanceID": 5203,
+                "StartDate": "2016-11-16T13:01:29",
+                "DirectAssignUserName": "company\\sarah",
+                "ActionTakenByUserID": "",
+                "ActionTakebByUserFullName": "",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": true,
+                "Comment": "",
+                "CheckOutTo_UserID": "company\\sarah",
+                "CheckOutTo_UserName": "sarah",
+                "CheckOutTo_History": "\\n user [sarah] has checked out this task on 4/18/2018 11:31:31 AM",
+                "CheckedOutDate": "2018-04-18T11:31:31.610",
+                "WFAssignedStateID": 0,
+                "GroupTaskID": 0,
+                "StateID": 0,
+                "StateName": "DEFAULT NOT USED"
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 10628,
+            "ApplicationReference": "Edit Security Request - 4313"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 19819,
+                "WFInstanceID": 10628,
+                "StartDate": "2017-10-11T10:16:26.373",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 27,
+                "StateID": 27,
+                "StateName": "Back to Initiator",
+                "WFTemplateID": 7,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 24498,
+            "ApplicationReference": "Reverse Transaction Request - 2100"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 47551,
+                "WFInstanceID": 24498,
+                "StartDate": "2018-05-20T14:50:04.733",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 97,
+                "GroupTaskID": 0,
+                "StateID": 97,
+                "StateName": "Back to initiator",
+                "WFTemplateID": 17,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 24499,
+            "ApplicationReference": "Reverse Transaction Request - 2101"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 47552,
+                "WFInstanceID": 24499,
+                "StartDate": "2018-05-20T14:50:42.263",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 97,
+                "GroupTaskID": 0,
+                "StateID": 97,
+                "StateName": "Back to initiator",
+                "WFTemplateID": 17,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 30111,
+            "ApplicationReference": "Edit Security Request - 8706"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 60538,
+                "WFInstanceID": 30111,
+                "StartDate": "2018-10-25T15:37:04.430",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 27,
+                "GroupTaskID": 0,
+                "StateID": 27,
+                "StateName": "Back to Initiator",
+                "WFTemplateID": 7,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 30854,
+            "ApplicationReference": "Edit Security Request - 8734"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 62178,
+                "WFInstanceID": 30854,
+                "StartDate": "2018-11-13T11:51:57",
+                "DirectAssignUserName": "company\\sarah",
+                "ActionTakenByUserID": "",
+                "ActionTakebByUserFullName": "",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": true,
+                "Comment": "",
+                "CheckOutTo_UserID": "company\\sarah",
+                "CheckOutTo_UserName": "sarah",
+                "CheckOutTo_History": "\\n user [sarah] has checked out this task on 12/18/2018 3:42:37 PM",
+                "CheckedOutDate": "2018-12-18T15:42:37.317",
+                "WFAssignedStateID": 27,
+                "GroupTaskID": 0,
+                "StateID": 27,
+                "StateName": "Back to Initiator",
+                "WFTemplateID": 7,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 35670,
+            "ApplicationReference": "Automatic Security Creation - 9132"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 73208,
+                "WFInstanceID": 35670,
+                "StartDate": "2019-03-06T13:06:14.913",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 41,
+                "GroupTaskID": 0,
+                "StateID": 41,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 36246,
+            "ApplicationReference": "Automatic Security Creation - 9251"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 74525,
+                "WFInstanceID": 36246,
+                "StartDate": "2019-03-19T12:02:11",
+                "DirectAssignUserName": "company\\sarah",
+                "ActionTakenByUserID": "",
+                "ActionTakebByUserFullName": "",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "Comment": "",
+                "CheckOutTo_History": "\\n user [sarah] has checked out this task on 4/15/2020 2:32:42 PM\\n user [sarah] has discard checkedout this task on 3/30/2022 1:15:27 PM",
+                "WFAssignedStateID": 44,
+                "GroupTaskID": 0,
+                "StateID": 44,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 37228,
+            "ApplicationReference": "Edit Security Request - 9355"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 76737,
+                "WFInstanceID": 37228,
+                "CreatedDate": "2019-04-10T15:42:30.743",
+                "StartDate": "2019-04-10T15:42:30",
+                "DirectAssignUserName": "company\\sarah",
+                "ActionTakenID": 0,
+                "ActionTakenByUserID": "",
+                "ActionTakebByUserFullName": "",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": true,
+                "Comment": "",
+                "CheckOutTo_UserID": "company\\sarah",
+                "CheckOutTo_UserName": "sarah",
+                "CheckOutTo_History": "\\n user [sarah] has checked out this task on 4/10/2019 3:54:18 PM",
+                "CheckedOutDate": "2019-04-10T15:54:18.483",
+                "WFAssignedStateID": 27,
+                "GroupTaskID": 0,
+                "StateID": 27,
+                "StateName": "Back to Initiator",
+                "WFTemplateID": 7,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 38037,
+            "ApplicationReference": "Automatic Security Creation - 9405"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 78548,
+                "WFInstanceID": 38037,
+                "CreatedDate": "2019-04-29T12:41:18.137",
+                "StartDate": "2019-04-29T12:41:18.080",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 41,
+                "GroupTaskID": 0,
+                "StateID": 41,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 39834,
+            "ApplicationReference": "Automatic Security Creation - 9542"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 82509,
+                "WFInstanceID": 39834,
+                "CreatedDate": "2019-06-16T17:47:17.653",
+                "StartDate": "2019-06-16T17:47:17.617",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 41,
+                "GroupTaskID": 0,
+                "StateID": 41,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 46623,
+            "ApplicationReference": "Automatic Security Creation - 10011"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 97619,
+                "WFInstanceID": 46623,
+                "CreatedDate": "2019-12-31T12:09:12.827",
+                "StartDate": "2019-12-31T12:09:12.797",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 41,
+                "GroupTaskID": 0,
+                "StateID": 41,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 46910,
+            "ApplicationReference": "Automatic Security Creation - 10040"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "1",
+                "ID": 98251,
+                "WFInstanceID": 46910,
+                "CreatedDate": "2020-01-08T16:14:47.017",
+                "StartDate": "2020-01-08T16:14:46.993",
+                "DirectAssignUserName": "company\\sarah",
+                "WFAssignedRoleID": 11,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 41,
+                "GroupTaskID": 0,
+                "StateID": 41,
+                "StateName": "Sent to Initiator from Traders",
+                "WFTemplateID": 10,
+                "AssignedToRoleID": 11,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 115001,
+            "ApplicationReference": "F.S - 4766"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "4",
+                "ID": 243187,
+                "WFInstanceID": 115001,
+                "CreatedDate": "2024-01-11T10:38:36.480",
+                "StartDate": "2024-01-11T10:39:32.913",
+                "WFAssignedRoleID": 3,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 248,
+                "GroupTaskID": 0,
+                "StateID": 248,
+                "StateName": "Fund Allocation Operation Maker",
+                "WFTemplateID": 43,
+                "AssignedToRoleID": 3,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": false,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "MakerStateID": 0,
+                "isPostDated": false,
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 115730,
+            "ApplicationReference": "CITR-21374"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "4",
+                "ID": 243134,
+                "WFInstanceID": 115730,
+                "CreatedDate": "2024-01-10T17:35:33.307",
+                "StartDate": "2024-01-10T17:36:28.633",
+                "WFAssignedRoleID": 3,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 101,
+                "GroupTaskID": 0,
+                "StateID": 101,
+                "StateName": "Message Verification - Maker",
+                "WFTemplateID": 18,
+                "AssignedToRoleID": 3,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": true,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 115736,
+            "ApplicationReference": "CITR-21375"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "4",
+                "ID": 243145,
+                "WFInstanceID": 115736,
+                "CreatedDate": "2024-01-10T17:39:32.177",
+                "StartDate": "2024-01-10T17:40:27.507",
+                "WFAssignedRoleID": 3,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 101,
+                "GroupTaskID": 0,
+                "StateID": 101,
+                "StateName": "Message Verification - Maker",
+                "WFTemplateID": 18,
+                "AssignedToRoleID": 3,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": true,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 115743,
+            "ApplicationReference": "CITR-21377"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "4",
+                "ID": 243159,
+                "WFInstanceID": 115743,
+                "CreatedDate": "2024-01-11T09:39:32.440",
+                "StartDate": "2024-01-11T09:40:28.807",
+                "WFAssignedRoleID": 3,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 101,
+                "GroupTaskID": 0,
+                "StateID": 101,
+                "StateName": "Message Verification - Maker",
+                "WFTemplateID": 18,
+                "AssignedToRoleID": 3,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": true,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "PostDatedDays": 0
+            }
+        ]
+    },
+    {
+        "WFInstance": {
+            "ID": 115753,
+            "ApplicationReference": "CITR-21378"
+        },
+        "WFTaskInstance_JSON": [
+            {
+                "isDelegationTask": 0,
+                "source": "4",
+                "ID": 243181,
+                "WFInstanceID": 115753,
+                "CreatedDate": "2024-01-11T10:28:54.983",
+                "StartDate": "2024-01-11T10:29:51.400",
+                "WFAssignedRoleID": 3,
+                "StatusID": 4,
+                "TaskURL": "http://... ",
+                "isCheckedOut": false,
+                "WFAssignedStateID": 101,
+                "GroupTaskID": 0,
+                "StateID": 101,
+                "StateName": "Message Verification - Maker",
+                "WFTemplateID": 18,
+                "AssignedToRoleID": 3,
+                "RequireMultiRoleMemberApproval": false,
+                "isInitialStep": true,
+                "isFinalStep": false,
+                "isAutomatedStep": false,
+                "TaskPageURL": "http://... ",
+                "isPostDated": false,
+                "PostDatedDays": 0
+            }
+        ]
+    }
+]
